@@ -1,1 +1,1 @@
-//This is my portfolio from this year trying to learn different programming languages and softwares.
+//This is my portfolio from 2024 trying to learn different programming languages and softwares.
